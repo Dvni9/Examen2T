@@ -1,6 +1,5 @@
 package com.example.exament2.ui.fragmentos
 
-import android.content.Intent
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -10,7 +9,6 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.examen2t.adapters.ProductoCaducadoAdapter
 import com.example.examen2t.databinding.FragmentoProductosCaducadosBinding
-import com.example.exament2.ui.DetalleProductoActivity
 import com.example.exament2.viewmodel.ProductoViewModel
 
 class ProductosCaducadosFragment : Fragment() {

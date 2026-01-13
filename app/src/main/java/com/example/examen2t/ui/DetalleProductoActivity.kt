@@ -1,4 +1,4 @@
-package com.example.exament2.ui
+package com.example.examen2t.ui
 
 import android.content.Intent
 import android.os.Bundle

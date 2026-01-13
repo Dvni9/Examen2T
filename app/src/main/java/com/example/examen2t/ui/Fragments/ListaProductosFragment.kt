@@ -13,7 +13,7 @@ import com.example.examen2t.R
 import com.example.examen2t.adapters.ProductoAdapter
 import com.example.examen2t.databinding.FragmentoListaProductosBinding
 import com.example.exament2.datos.Producto
-import com.example.exament2.ui.DetalleProductoActivity
+import com.example.examen2t.ui.DetalleProductoActivity
 import com.example.exament2.viewmodel.ProductoViewModel
 
 class ListaProductosFragment : Fragment() {
