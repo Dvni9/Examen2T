@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_ordenar_nombre"
+        android:title="Ordenar por Nombre" />
+    <item
+        android:id="@+id/menu_ordenar_cantidad"
+        android:title="Ordenar por Cantidad" />
+    <item
+        android:id="@+id/menu_ordenar_fecha"
+        android:title="Ordenar por Fecha" />
+</menu>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Gestor Despensa</string>
+    <string name="producto_nombre">Nombre del Producto</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="fecha_caducidad">Fecha de Caducidad</string>
+    <string name="guardar">Guardar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="anadir_producto">Añadir Producto</string>
+    <string name="productos">Productos</string>
+    <string name="productos_caducados">Productos Caducados</string>
+    <string name="compartir">Compartir</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="reducir_cantidad">Reducir Cantidad</string>
+    <string name="editar">Modificar</string>
+    <string name="seleccionar_fecha">Seleccionar Fecha</string>
+    <string name="asunto_compartir">Información del Producto</string>
+    <string name="selector_compartir">Compartir producto con</string>
+    <string name="plantilla_compartir">Producto: %1$s\nCantidad: %2$s\nCaduca: %3$s</string>
+    <string name="volver">Volver</string>
+    <string name="actualizar">Actualizar</string>
+</resources>

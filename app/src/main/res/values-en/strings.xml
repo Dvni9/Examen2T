@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pantry Manager</string>
+    <string name="producto_nombre">Product Name</string>
+    <string name="cantidad">Quantity</string>
+    <string name="fecha_caducidad">Expiration Date</string>
+    <string name="guardar">Save</string>
+    <string name="limpiar">Clear</string>
+    <string name="anadir_producto">Add Product</string>
+    <string name="productos">Products</string>
+    <string name="productos_caducados">Expired Products</string>
+    <string name="compartir">Share</string>
+    <string name="eliminar">Delete</string>
+    <string name="reducir_cantidad">Reduce Quantity</string>
+    <string name="editar">Edit</string>
+    <string name="seleccionar_fecha">Select Date</string>
+    <string name="asunto_compartir">Product Information</string>
+    <string name="selector_compartir">Share product with</string>
+    <string name="plantilla_compartir">Product: %1$s\nQuantity: %2$s\nExpires: %3$s</string>
+    <string name="volver">Back</string>
+    <string name="actualizar">Update</string>
+</resources>
